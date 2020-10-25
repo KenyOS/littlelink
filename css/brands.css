@@ -76,6 +76,13 @@ button:hover,
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* meetyourleague */
+.button.button-myl {
+  color: #FFFFFF;
+  background-color: #fdfd96 }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
 
 /* Discord */
 .button.button-discord {
