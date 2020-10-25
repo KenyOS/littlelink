@@ -245,10 +245,10 @@ button:hover,
   filter: brightness(90%) }
 
 /* MeetYourLeague */
-.button.button-lol {
+.button.button-meetyourleague {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-lol:hover,
-.button.button-lol:focus {
+.button.button-meetyourleague:hover,
+.button.button-meetyourleague:focus {
   filter: brightness(90%) }
 
