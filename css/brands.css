@@ -79,8 +79,8 @@ button:hover,
 
 /* Foundry */
 .button.button-myl {
-  color: #fdfd96;
-  background-color: #00334E }
+  color: #FFFFFF;
+  background-color: #fdfd96 }
 .button.button-myl:hover,
 .button.button-myl:focus {
   filter: brightness(140%) }
