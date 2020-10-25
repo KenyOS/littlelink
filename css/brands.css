@@ -79,9 +79,9 @@ button:hover,
 /* meetyourleague */
 .button.button-myl {
   color: #FFFFFF;
-  background-color: #7289DA }
-.button.button-discord:hover,
-.button.button-discord:focus {
+  background-color: #fdfd96 }
+.button.button-myl:hover,
+.button.button-myl:focus {
   filter: brightness(90%) }
 
 /* Discord */
