@@ -76,14 +76,6 @@ button:hover,
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* meetyourleague */
-.button.button-myl {
-  color: #FFFFFF;
-  background-color: #fdfd96 }
-.button.button-myl:hover,
-.button.button-myl:focus {
-  filter: brightness(90%) }
-
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
@@ -250,5 +242,13 @@ button:hover,
   background-color: #FF0000 }
 .button.button-youtube:hover,
 .button.button-youtube:focus {
+  filter: brightness(90%) }
+
+/* MeetYourLeague */
+.button.button-lol {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-lol:hover,
+.button.button-lol:focus {
   filter: brightness(90%) }
 
