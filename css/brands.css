@@ -78,11 +78,11 @@ button:hover,
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 /* Foundry */
-.button.button-foundry {
-  color: #FFFFFF;
+.button.button-myl {
+  color: #fdfd96;
   background-color: #00334E }
-.button.button-foundry:hover,
-.button.button-foundry:focus {
+.button.button-myl:hover,
+.button.button-myl:focus {
   filter: brightness(140%) }
 
 /* Discord */
